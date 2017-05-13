@@ -1,0 +1,22 @@
+.social {
+  width: 32%;
+}
+
+.panel-title {
+	text-align: center;
+}
+
+.panel-body {
+	padding-left: auto;
+	padding-right: auto;
+}
+
+.auth-image {
+	width: 100%;
+	margin-bottom: 20px;
+}
+
+footer {
+	text-align: center;
+	padding: 30px 0;
+}
